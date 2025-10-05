@@ -1,4 +1,3 @@
-
 from collections import Counter
 def letter_frequency_attack(ciphertext, top_n=10):
     # English letter frequency ordered by most common usage
